@@ -1,0 +1,35 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
+  display: table;
+  table-layout: fixed;
+  background-image: url("../images/wallpaper.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #000;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+#giphyLogo {
+  margin-top: 4px;
+  margin-bottom: 0px;
+}
+
+.show {
+  display: inline-block;
+}
+
+#gifsWindow {
+  display: inline-block;
+}
+
+p {
+  color: #000;
+}
